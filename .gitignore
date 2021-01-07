@@ -1,0 +1,6 @@
+node_modules/
+wp/
+phpMyAdmin/
+.vscode/
+dist/
+yarn.lock
